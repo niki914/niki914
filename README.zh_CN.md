@@ -1,4 +1,4 @@
-# 你好，我是Niki！![img](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 你好，我是Niki！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo+2&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)
 
