@@ -26,6 +26,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey%20v1-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-007ACC?style-for-the-badge&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denclint86&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
