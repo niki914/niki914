@@ -1,10 +1,10 @@
 # README.md
 
-[中文](https://github.com/denclint86/denclint86/blob/master/README.zh_CN.md)
+[中文](https://github.com/niki914/niki914/blob/master/README.zh_CN.md)
 
-[中文(繁体)](https://github.com/denclint86/denclint86/blob/master/README.zh_HK.md)
+[中文(繁体)](https://github.com/niki914/niki914/blob/master/README.zh_HK.md)
 
-[English](https://github.com/denclint86/denclint86/blob/master/README.en.md)
+[English](https://github.com/niki914/niki914/blob/master/README.en.md)
 
 # Hi, I'm Niki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
@@ -36,5 +36,5 @@ Hi, I'm Niki, a Software Engineering student (enrolled in 2023) at Guangdong Uni
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey%20v1-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denclint86&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niki914&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
