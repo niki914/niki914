@@ -1,40 +1,53 @@
-# README.md
+# Hi, I'm Niki <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdwdjQ4Z2JrMGQ2dThoampvNmtnZXFndDdydHIxaWIxZnp3dnNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7vSoVmxvnDAEl487Ci/giphy.gif" width="130">
 
-[中文](https://github.com/niki914/niki914/blob/master/README.zh_CN.md)
 
-[中文(繁体)](https://github.com/niki914/niki914/blob/master/README.zh_HK.md)
-
-[English](https://github.com/niki914/niki914/blob/master/README.en.md)
-
-# Hi, I'm Niki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo+2&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## About Me
 
-Hi, I'm Niki, a Software Engineering student (enrolled in 2023) at Guangdong University of Technology (GDUT). I'm passionate about coding and deeply engaged in Android development. I'm also exploring AI-driven technologies, particularly large language models (LLMs), function calling, and prompt engineering. I'm also capable of building complex workflows based on LLMs. My goal is to build innovative mobile applications and intelligent systems with clean, efficient code.
+Hi ! I'm a 21-year-old tech enthusiast specializing in Android app development ! I'm currently focused on building polished Material Apps and Xposed Module. Aspiring to be a software engineer, attain financial independence, and explore the globe !
 
-## Technology Stack & Interests
+Familiar with building RESTful APIs, including LLM streaming APIs, with experience in APK reverse engineering and Xposed module development. Comfortable applying design patterns to create efficient and maintainable Android applications.
 
-- Languages & Tools: Kotlin, Java, Git, AutoHotkey (AHKv1)
-- Android Development: Jetpack, MVP, MVVM and MVI architecture, RESTful APIs
-- AI & LLMs: Large Language Models, Function Calling, Prompt Engineering
-- Other Skills: Docker, SQLite, KTS
+Feel free to check out my projects below !
 
-## Development Experience & Current Work
 
-- Building Android apps using Kotlin and Jetpack, focusing on MVI architecture and performance optimization.
-- Developing function-calling mechanisms for large language models to enable advanced functionalities in Android development, such as integrating accessibility services and ADB tools to allow the model to control devices.
-- Crafting prompt engineering strategies to optimize LLM performance for specific tasks.
-- Using AutoHotkey (AHKv1) to automate development workflows and boost productivity.
 
-## My Interests
+## My Technology Stack & Interests
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey%20v1-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-007ACC?style=for-the-badge&logo=ai&logoColor=white)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niki914&bg_color=ffffff&color=9e4c98&line=9992f7&point=1e6794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div class="container", align="center">
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+   <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+   <img src="https://img.shields.io/badge/Xposed-2980B9?style=for-the-badge&logo=android&logoColor=white">
+</div>
+
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki914&layout=compact" />
+</div>
+
+
+## Additional Skills
+
+- .APK Reverse engineering
+- Git
+- Docker
+- SQLite
+- Spoken English
+
+
+
+## Current Work
+
+- Actively seeking software engineering  opportunities
+- Maintaining my xposed modules
+- Practicing on leetcode daily
+- Deepening my knowledge of the Android framework
+- Expanding my skills in Jetpack Compose and Kotlin Multiplatform (KMP).
+
+
+
+## Contact
+
+You can reach me at niki27687@gmail.com or by creating an issue on my repositories.
