@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi ! I'm a 21-year-old tech enthusiast specializing in Android app development ! I'm currently focused on building polished Material Apps and Xposed Module. Aspiring to be a software engineer, attain financial independence, and explore the globe !
+Hi ! I'm a 21-year-old tech enthusiast specializing in Android app development ! I'm currently focused on building polished Material Apps and Xposed Modules. Aspiring to be a software engineer, attain financial independence, and explore the globe !
 
 Familiar with building RESTful APIs, including LLM streaming APIs, with experience in APK reverse engineering and Xposed module development. Comfortable applying design patterns to create efficient and maintainable Android applications.
 
@@ -50,4 +50,4 @@ Feel free to check out my projects below !
 
 ## Contact
 
-You can reach me at niki27687@gmail.com or by creating an issue on my repositories.
+You can reach me by creating an issue on my repositories or at niki27687@gmail.com.
