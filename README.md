@@ -6,7 +6,7 @@
 
 Hi ! I'm a 21-year-old tech enthusiast specializing in Android app development ! I'm currently focused on building polished Material Apps and Xposed Modules. Aspiring to be a software engineer, attain financial independence, and explore the globe !
 
-Familiar with building RESTful APIs, including LLM streaming APIs, with experience in APK reverse engineering and Xposed module development. Comfortable applying design patterns to create efficient and maintainable Android applications.
+Familiar with building RESTful APIs, including LLM streaming APIs, with experience in APK reverse engineering and Xposed module development. Comfortable applying design patterns like MVVM、MVI to create efficient and maintainable Android applications.
 
 Feel free to check out my projects below !
 
@@ -41,8 +41,8 @@ Feel free to check out my projects below !
 ## Current Work
 
 - Actively seeking software engineering  opportunities
-- Maintaining my xposed modules
-- Practicing on leetcode daily
+- Maintaining my Xposed modules
+- Practicing on Leetcode daily
 - Deepening my knowledge of the Android framework
 - Expanding my skills in Jetpack Compose and Kotlin Multiplatform (KMP).
 
